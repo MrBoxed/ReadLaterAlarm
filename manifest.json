@@ -6,5 +6,7 @@
         "default_popup":"index.html",
         "default_icon": "journal.png"
     } ,
-    "permission":["tabs"]
+    "permissions": [
+        "tabs"
+      ]
 }
